@@ -1,0 +1,69 @@
+// #app {
+//   display: flex;
+//   justify-content: center;
+//   align-items: center;
+// }
+
+// .swiper {
+//   width: 200px;
+//   height: 320px;
+// }
+.mySwiperCard{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border-radius: 18px;
+  // font-size: 22px;
+  // font-weight: bold;
+  // color: #fff;
+  width: 180px;
+  height: 360px;
+border-radius: 1em;
+.titleCard{
+  background-color: white;
+  border-radius: .3em;
+  padding: .2em;
+  font-weight: bold;
+}
+.imgSlide{
+  width: 180px;
+  height: 320px;
+}
+}
+.mySwiperCard:nth-child(1n) {
+  background-color: rgb(143, 17, 206);
+}
+
+.mySwiperCard:nth-child(2n) {
+  background-color: rgb(0, 140, 255);
+}
+
+.mySwiperCard:nth-child(3n) {
+  background-color: rgb(10, 184, 111);
+}
+
+.mySwiperCard:nth-child(4n) {
+  background-color: rgb(211, 122, 7);
+}
+
+.mySwiperCard:nth-child(5n) {
+  background-color: rgb(118, 163, 12);
+}
+
+.mySwiperCard:nth-child(6n) {
+  background-color: rgb(180, 10, 47);
+}
+
+.mySwiperCard:nth-child(7n) {
+  background-color: rgb(35, 99, 19);
+}
+
+.mySwiperCard:nth-child(8n) {
+  background-color: rgb(0, 68, 255);
+}
+
+.mySwiperCard:nth-child(9n) {
+  background-color: rgb(12, 218, 29);
+}
+
