@@ -7,7 +7,13 @@
 .title {
   color: white;
   text-align: center;
-  margin: 1em auto;
+  margin: .5em auto;
+  font-size: 48px;
+}
+.pTitle{
+  color: white;
+  text-align: center;
+  margin: 0 auto 1.5em auto;
 }
 .containerSliderCard {
   position: relative;
@@ -22,6 +28,19 @@
 .imageLeft {
   display: none;
 }
+.containerSliderCard{
+  animation: verticalScroll3 1.5s ease-in forwards;
+  opacity: 0;
+}
+@keyframes verticalScroll3 {
+  0%{
+    transform: translateY(4em) ;
+  }
+  100%{
+transform: translateY(0);
+opacity: 1;
+  }
+ }
 @media (min-width: 1024px) {
   .containerSliderCard {
     display: none;
@@ -39,12 +58,12 @@
   .imageLeft {
     display: initial;
     position: absolute;
-    top: 18%;
+    top: 26%;
     margin-left: 3em;
     animation: scrollInAndOut 5s ease-in-out forwards;
+    opacity: 0;
   }
   .containerWorks {
-    overflow: hidden;
     height: 100%;
   }
 }
@@ -57,6 +76,7 @@
   }
   70% {
     transform: translateX(calc(20% - 10px));
+    opacity: 1;
   }
   100% {
     transform: translateX(-150vh);

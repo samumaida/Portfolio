@@ -41,6 +41,31 @@
   align-items: center;
   text-align: center;
   flex-basis: 25%;
+  opacity: 0;
+}
+.textAbout{
+  animation: orizzonatlScroll 1.5s ease-in forwards;
+}
+@keyframes orizzonatlScroll {
+  0%{
+    transform: translateX(4em) ;
+  }
+  100%{
+transform: translateX(0);
+opacity: 1;
+  }
+}
+.containerSkills{
+  animation: orizzonatlScroll2 1.5s ease-in forwards;
+}
+@keyframes orizzonatlScroll2 {
+  0%{
+    transform: translateX(-4em) ;
+  }
+  100%{
+transform: translateX(0);
+opacity: 1;
+  }
 }
 .containerSkills{
   .sectionSkills1, .sectionSkills2, .sectionSkills3{
@@ -97,12 +122,34 @@ justify-content: flex-end;
     margin-bottom: 0;
     flex-basis: 50%;
     height: 50%;
+    animation: verticalScroll 1.5s ease-in forwards;
+    opacity: 0;
+   }
+   @keyframes verticalScroll {
+    0%{
+      transform: translateY(4em) ;
+    }
+    100%{
+transform: translateY(0);
+opacity: 1;
+    }
    }
    .containerSkills{
     flex-basis: 55%;
     display: flex;
     justify-content: center;
     margin-bottom: 5em;
+    animation: verticalScroll2 1.5s ease-in forwards;
+    opacity: 0;
+    @keyframes verticalScroll2 {
+      0%{
+        transform: translateY(-4em) ;
+      }
+      100%{
+  transform: translateY(0);
+  opacity: 1;
+      }
+     }
    .skills{
     display: flex;
     flex-direction: column;

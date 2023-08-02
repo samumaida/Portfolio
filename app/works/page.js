@@ -24,6 +24,7 @@ export default function Works() {
         />
         <Header />
         <h1 className={styles.title}>I miei progetti</h1>
+        <p className={styles.pTitle}>Di seguito gli ultimi progetti da me realizzati con Angular e Next.js</p>
         <div className={styles.containerSlider}>
           <Slider />
         </div>

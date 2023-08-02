@@ -35,7 +35,7 @@ export default function Home() {
           <p className={styles.pHome}>
             "La tecnologia è come un pennello per l'artista. Ciò che conta è
             come usiamo questo strumento per dipingere il nostro futuro."{" "}
-            <br></br> - Satya Nadella, CEO di Microsoft
+            <br></br> - Satya Nadella, CEO di Microsoft.
           </p>
           {/* <img className={styles.gif1} src="https://video-public.canva.com/VAFKHBrA9Gs/v/07eb5016af.gif"></img> */}
           <div>
