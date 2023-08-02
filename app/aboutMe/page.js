@@ -46,31 +46,31 @@ export default function AboutMe() {
               in più su di me e capire che tipo di persona sono. Per aiutarti,
               riassumerò brevemente i punti principali che mi hanno portato alla
               creazione di questo portfolio e quali sono i miei obiettivi
-              futuri. Classe 1994, nato a Erba (CO), cresciuto a Bregnano (CO)
-              fin da piccolo ho avuto modo di approcciare con il computer
+              futuri. Classe 1994, nato a Erba (CO), cresciuto a Bregnano (CO).
+              Fin da piccolo ho avuto modo di approcciare con il computer
               attraverso lo scaricamento o la masterizzazione di giochi,
               nell'età adolescenziale però spinto da un'altra mia passione, che
               è quella per i motori, decido di frequentare le scuole superiori
-              come autoriparatore. Successivamente però le scarse opportunità
+              come autoriparatore. Successivamente, le scarse opportunità
               lavorative e la mancanza di un diploma effettivo, avendo
               frequentato un cfp di 3 anni, mi spingono ad incrementare le mie
               conoscenze e decido quindi di frequentare la scuola serale come
               perito meccanico. Prima ancora di finire gli studi riesco a
               trovare un lavoro concernente il mio ambito a due passi da casa ed
-              instauro con i colleghi e con il capo un ottimo rapporto! Ok, io
+              instauro con i colleghi e con il capo un ottimo rapporto! Ok, 
               sono arrivato! avrebbero detto la maggior parte dei miei cotanei,
-              ma così non è stato, sentivo che quella strada che avevo
+              ma non mi sentivo affatto arrivato, anzi, sentivo che quella strada che avevo
               intrapreso mi teneva come chiuso in gabbia, limitato nelle
               conoscenze e nelle esperienze. Dopo 6 anni, nei quali ho cercato
               di trovare un'ispirazione riguardo ai miei progetti, mi imbatto in
               un corso come sviluppatore web, ho sentito subito una grande
-              carica! poter interagire e lavorare con persone di tutto
+              carica! poter interagire e lavorare con persone di tutto il mondo
               sperimentando realtà sempre differenti ed innovative mi hanno
               convinto ad iniziare questo percorso e a lasciare il posto fisso
-              che tanto mi invidiavano. Oggi sono un laureando in informatica
-              per le aziende digitali e anche se la mia conoscenza pratica è
+              che tanto mi invidiavano. Oggi sto iniziando il mio percorso universitario
+              in informatica per le aziende digitali e anche se la mia conoscenza pratica è
               ancora agli albori, sono sicuro e determinato a crescere in questo
-              settore che negli ultimi anni ha stravolto la vita di tutti noi e
+              settore che negli ultimi anni ha stravolto la vita di tutti noi e certo
               continuerà a farlo!
             </p>
             Grazie per aver dedicato del tempo a conoscere la mia storia!

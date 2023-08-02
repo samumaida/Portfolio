@@ -31,31 +31,16 @@ export default function App() {
         className={styles.mySwiper}
       >
         <SwiperSlide className={styles.SwiperSlide}>
-          <img src="https://swiperjs.com/demos/images/nature-1.jpg" />
+          <img src="/images/markup0.png" />
         </SwiperSlide>
         <SwiperSlide className={styles.SwiperSlide}>
-          <img src="https://swiperjs.com/demos/images/nature-2.jpg" />
+          <img src="/images/markup2.png" />
         </SwiperSlide>
         <SwiperSlide className={styles.SwiperSlide}>
-          <img src="https://swiperjs.com/demos/images/nature-3.jpg" />
+          <img src="images/markup3.png" />
         </SwiperSlide>
         <SwiperSlide className={styles.SwiperSlide} >
-          <img src="https://swiperjs.com/demos/images/nature-4.jpg" />
-        </SwiperSlide>
-        <SwiperSlide className={styles.SwiperSlide}>
-          <img src="https://swiperjs.com/demos/images/nature-5.jpg" />
-        </SwiperSlide>
-        <SwiperSlide className={styles.SwiperSlide}>
-          <img src="https://swiperjs.com/demos/images/nature-6.jpg" />
-        </SwiperSlide>
-        <SwiperSlide className={styles.SwiperSlide}>
-          <img src="https://swiperjs.com/demos/images/nature-7.jpg" />
-        </SwiperSlide>
-        <SwiperSlide className={styles.SwiperSlide}>
-          <img src="https://swiperjs.com/demos/images/nature-8.jpg" />
-        </SwiperSlide>
-        <SwiperSlide className={styles.SwiperSlide}>
-          <img src="https://swiperjs.com/demos/images/nature-9.jpg" />
+          <img src="images/markup4.png" />
         </SwiperSlide>
       </Swiper>
     </>

@@ -30,6 +30,10 @@ border-radius: 1em;
   width: 180px;
   height: 320px;
 }
+.imgSlide:first-child:last-child{
+  width: 180px;
+  height: 305px;
+}
 }
 .mySwiperCard:nth-child(1n) {
   background-color: rgb(143, 17, 206);

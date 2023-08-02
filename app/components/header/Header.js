@@ -19,7 +19,7 @@ export default function Header() {
         <Link className={styles.linkSocial} href="https://www.youtube.com/channel/UCJKM4yr0RzZqEtU6cuae7ag">
           <AiFillYoutube />
         </Link>
-        <Link className={styles.linkSocial} href="#">
+        <Link className={styles.linkSocial} href="https://www.facebook.com/samuele.maida">
           <AiFillFacebook />
         </Link>
         <Link className={styles.linkSocial} href="https://www.instagram.com/samuelemaida/">
