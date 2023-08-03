@@ -65,13 +65,13 @@ export default function Home() {
       </a>
   </div> */}
   <div className={styles.divImage}>
-        <Image
+        <img
           className={styles.myPhoto}
-          src="/images/immaginePortfolio1BgScale2x.png"
+          src="/images/ImmaginePortfolio1BgScale2x.png"
           alt="My photo"
           width={300}
           height={300}
-        ></Image>
+        ></img>
         </div>
         <Footer />
       </div>

@@ -60,7 +60,7 @@ opacity: 1;
     position: absolute;
     top: 20%;
     margin-left: 3em;
-    animation: scrollInAndOut 5s ease-in-out forwards;
+    animation: scrollInAndOut 5s 3s ease-in-out forwards;
     opacity: 0;
   }
   .containerWorks {
