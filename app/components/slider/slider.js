@@ -42,6 +42,9 @@ export default function App() {
         <SwiperSlide className={styles.SwiperSlide} >
           <img src="images/markup4.png" />
         </SwiperSlide>
+        <SwiperSlide className={styles.SwiperSlide}>
+          <img src="/images/GreenFuture.png" />
+        </SwiperSlide>
       </Swiper>
     </>
   );

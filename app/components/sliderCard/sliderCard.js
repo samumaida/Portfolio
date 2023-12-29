@@ -34,6 +34,9 @@ export default function App() {
         <SwiperSlide className={styles.mySwiperCard}><span className={styles.titleCard}>Il Prodotto che Cerchi</span>
         <a href="https://www.ilprodottochecerchi.it/"><img className={styles.imgSlide} src="/images/Screenshot__41_-removebg-preview.png"></img></a><span><a href="https://github.com/FabioFarinella96/IlProdottoCheCerchi">Link Repository</a></span>
         </SwiperSlide>
+        <SwiperSlide className={styles.mySwiperCard}><span className={styles.titleCard}>Green Future</span>
+        <a href="https://green-future-three.vercel.app/"><img className={styles.imgSlide} src="/images/GreenFuture.png"></img></a><span><a href="https://github.com/samumaida/GreenFuture">Link Repository</a></span>
+        </SwiperSlide>
       </Swiper>
     </>
   );

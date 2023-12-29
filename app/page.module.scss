@@ -70,13 +70,13 @@ font-size: 18px;
     bottom: 0px;
     position: absolute;
     left: -300px; //105px
-    animation: animationPhoto-x 3s 3s forwards 1;
+    animation: animationPhoto-x 3s 5s forwards 1;
     opacity: 0;
   }
   }
   @keyframes animationPhoto-x {
     100% {
-      transform: translateX(260%);
+      transform: translateX(240%);
       opacity: 1;
       }
     }
