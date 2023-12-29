@@ -31,19 +31,19 @@ export default function App() {
         className={styles.mySwiper}
       >
         <SwiperSlide className={styles.SwiperSlide}>
-          <img src="/images/markup0.png" />
+        <a href="https://angular-first-app-xw7p.vercel.app/currency-converter"><img src="/images/markup0.png" /></a>
         </SwiperSlide>
         <SwiperSlide className={styles.SwiperSlide}>
-          <img src="/images/markup2.png" />
+        <a href="https://angular-first-app-xw7p.vercel.app/iphone-calculator"><img src="/images/markup2.png" /></a>
         </SwiperSlide>
         <SwiperSlide className={styles.SwiperSlide}>
-          <img src="images/markup3.png" />
+        <a href="https://angular-first-app-xw7p.vercel.app/sasso-carta-forbice"><img src="images/markup3.png" /></a>
         </SwiperSlide>
         <SwiperSlide className={styles.SwiperSlide} >
-          <img src="images/markup4.png" />
+        <a href="https://www.ilprodottochecerchi.it/"><img src="images/markup4.png" /></a>
         </SwiperSlide>
         <SwiperSlide className={styles.SwiperSlide}>
-          <img src="/images/GreenFuture.png" />
+        <a href="https://green-future-three.vercel.app/"><img src="/images/GreenFuture.png" /></a>
         </SwiperSlide>
       </Swiper>
     </>
